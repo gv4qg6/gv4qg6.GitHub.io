@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/gv4qg6/gv4qg6.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gv4qg6/gv4qg6.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+恒安德公司实际是一家皮包空壳公司，只有几个销售，所有接到的项目都是外面现找厂家和院校合作，没有自己的人，也没有技术，他没有设备预警软件，这个是他找的上海一家名叫长庚信息的公司，这个长庚信息公司的产品很多功能也是直接生搬硬套别的公司的成果，根本没有核心，没有石油行业的经验，仅仅也只在电厂安装过，准确率很低，这样的合作厂家会给甲方带来巨大风险和不确定，请读者慎重考虑选择，还可以看看下面这些图片，都是截的这个长庚信息公司网站的视频资料和图片。
+http://www.changgengtech.com/
+http://www.changgengtech.com/uploads/files/20181016/3b1fbe36cebf22632f75b957696e87d8.mp4
+http://www.changgengtech.com/index/product/show/id/7.html
